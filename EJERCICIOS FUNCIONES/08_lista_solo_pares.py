@@ -13,4 +13,5 @@ def lista_solo_pares(lista_numeros: list) -> list:
 lista_numeros = [0, 2, 3, 4, 5, 6]
 print(lista_solo_pares(lista_numeros))
 print(lista_solo_pares("a"))
+print(lista_solo_pares("b"))
 
